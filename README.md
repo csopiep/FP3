@@ -6,34 +6,23 @@ For full description, see the project schedule [on Piazza.][piazza]
 <i>Edit this file to make your report!</i>
 
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+| Name         |Github username|
+|--------------|---------------|
+|Charlie Sopiep|csopiep        |
+|Long Tran     |lqtran         |
+|Taner Albayrak|TanerAlbayrak  |
 
 ### A Team Name
-for the purpose of creating a github group
+Team Kong
+
 
 ### Project Title
-10 words or fewer
+Something involving HTML
 
 ### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+Exact details aren't known but we plan on interacting with HTML elements using a GUI.
 
 ### Libraries You Plan to Use 
-as a group
+HTML and GUI library.
 
-### How to Do and Submit this assignment
-
-1. To start, [**fork** this repository][forking].
-1. This assignment is just one README.md file, so you can edit it right in github.
-1. Modify the README.md file and [**commit**][ref-commit] changes.
-1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-
-<!-- Links -->
-[piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
-[markdown]: https://help.github.com/articles/markdown-basics/
-[forking]: https://guides.github.com/activities/forking/
-[ref-clone]: http://gitref.org/creating/#clone
-[ref-commit]: http://gitref.org/basic/#commit
-[ref-push]: http://gitref.org/remotes/#push
-[pull-request]: https://help.github.com/articles/creating-a-pull-request
 
