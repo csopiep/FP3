@@ -18,7 +18,7 @@ Team Kong
 Something involving HTML
 
 ### Project Concept
-Exact details aren't known but we plan on interacting with HTML elements using a GUI.
+Exact details aren't known but we plan on interacting with HTML elements using a GUI. Perhaps deal with servers and such.
 
 ### Libraries You Plan to Use 
 HTML and GUI library.
